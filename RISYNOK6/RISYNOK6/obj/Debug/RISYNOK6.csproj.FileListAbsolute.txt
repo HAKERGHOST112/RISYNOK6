@@ -1,0 +1,10 @@
+C:\Users\koa93\source\repos\RISYNOK6\RISYNOK6\bin\Debug\RISYNOK6.exe.config
+C:\Users\koa93\source\repos\RISYNOK6\RISYNOK6\bin\Debug\RISYNOK6.exe
+C:\Users\koa93\source\repos\RISYNOK6\RISYNOK6\bin\Debug\RISYNOK6.pdb
+C:\Users\koa93\source\repos\RISYNOK6\RISYNOK6\obj\Debug\RISYNOK6.csproj.AssemblyReference.cache
+C:\Users\koa93\source\repos\RISYNOK6\RISYNOK6\obj\Debug\RISYNOK6.Form1.resources
+C:\Users\koa93\source\repos\RISYNOK6\RISYNOK6\obj\Debug\RISYNOK6.Properties.Resources.resources
+C:\Users\koa93\source\repos\RISYNOK6\RISYNOK6\obj\Debug\RISYNOK6.csproj.GenerateResource.cache
+C:\Users\koa93\source\repos\RISYNOK6\RISYNOK6\obj\Debug\RISYNOK6.csproj.CoreCompileInputs.cache
+C:\Users\koa93\source\repos\RISYNOK6\RISYNOK6\obj\Debug\RISYNOK6.exe
+C:\Users\koa93\source\repos\RISYNOK6\RISYNOK6\obj\Debug\RISYNOK6.pdb
